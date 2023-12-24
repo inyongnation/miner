@@ -1,7 +1,7 @@
 {
     "autosave": true,
     "cpu": true,
-    "opencl": true,
+    "opencl": false,
     "cuda": false,
     "pools": [
         {
