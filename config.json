@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": true,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.hashvault.pro:443",
+            "user": "https://monero.hashvault.pro/en/dashboard/8AoLy1Ze4KrXYLHZ4vmExE8e3e2VUYaNcWYVqESNLVB7Wn18ZmnC2bH2RmVSHWemCUbwWK7aivHbK7mbwTpST3K24XKuTHo",
+            "pass": "noMachine",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
